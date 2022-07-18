@@ -1,0 +1,21 @@
+.col {
+  background: url("./src/images/background.jpg");
+
+  padding: 0;
+  margin: 0;
+}
+.form {
+  width: 420px;
+  padding: 25px;
+  margin: 0;
+  border: 2px solid rgb(214, 213, 213);
+  border-radius: 8px;
+}
+.app {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
